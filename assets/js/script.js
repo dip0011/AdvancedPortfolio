@@ -151,7 +151,7 @@ themeButton.addEventListener('click', () => {
 
 // Typing animation script 
 var typed = new Typed('.typing', {
-    strings: ['Web Designer', 'FullStack Developer', 'Graphic Designer'],
+    strings: ['Web Developer', 'Web Designer', 'FullStack Developer'],
     typeSpeed: 95,
     backSpeed: 60,
     loop: true
